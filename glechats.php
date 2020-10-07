@@ -18,7 +18,7 @@ class glechats
 	private static $defultParams = array(
 		'title' => '',
 		'headerTitle' => '',
-		'headerImage' => '',
+		'headerImageURL' => '',
 		'sections' => array(
 			'text' => ''
 		),
@@ -101,7 +101,7 @@ class glechats
 			'cards' => array(
 				'header' => array(
 					'title' => $params['headerTitle'],
-					'imageUrl' => $params['headerImage'],
+					'imageUrl' => $params['headerImageURL'],
 					'imageStyle' => 'AVATAR'
 				)
 			)
