@@ -1,5 +1,5 @@
 {
-  "name": "ppeev/GleChatS",
+  "name": "ppeev/glechats",
   "description": "Small library for posting messages to Google Chat, using their webhooks.",
   "keywords": ["Google-Chat", "webhook", "web-hook", "GleChatS", "Google Chat"],
   "homepage": "https://github.com/peyopeev0206/GleChats",
