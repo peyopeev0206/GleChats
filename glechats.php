@@ -2,6 +2,7 @@
 /**
  * GleChats: send messages in Google Chats channels by posting to their webhooks
  *
+ * @author Peyo Peev
  * @link https://github.com/peyopeev0206/GleChats
  * @license http://opensource.org/licenses/LGPL-3.0 GNU Lesser General Public License, version 3.0
  */
